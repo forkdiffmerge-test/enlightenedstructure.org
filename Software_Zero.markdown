@@ -1,7 +1,7 @@
 # Software Zero: Global-Scale Collaboration
 
 
-Contributors: Harlan T Wood, Jack Senechal, Travis Wellman, Adam Apollo ![http://enlightenedstructure.org/IMG/massively-parallel-academic-research-sys1-300x200-2-185x185.png] 
+Contributors: Harlan T Wood, Jack Senechal, Travis Wellman, Adam Apollo ![](http://enlightenedstructure.org/IMG/massively-parallel-academic-research-sys1-300x200-2-185x185.png) 
 
 The mission of Software Zero is to create a platform for swarm intelligence to collaborate on a project, while retaining the edits and contributions of every author throughout the history of the collaboration. Contributors do not have to agree on a single version; each author can maintain their own latest version. This “branching” of creative works encourages a diversity of perspectives that can be exchanged and interwoven in a creative network of any scale. Authors can create unlimited branches, easily view differences between branches, and merge in changes from other versions and authors.
 
