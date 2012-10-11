@@ -1,11 +1,11 @@
 # Software Zero: Global-Scale Collaboration
 
 
-Contributors: Harlan T Wood, Jack Senechal, Travis Wellman, Adam Apollo![http://enlightenedstructure.org/IMG/massively-parallel-academic-research-sys1-300x200-2-185x185.png] 
+Contributors: Harlan T Wood, Jack Senechal, Travis Wellman, Adam Apollo ![http://enlightenedstructure.org/IMG/massively-parallel-academic-research-sys1-300x200-2-185x185.png] 
 
 The mission of Software Zero is to create a platform for swarm intelligence to collaborate on a project, while retaining the edits and contributions of every author throughout the history of the collaboration. Contributors do not have to agree on a single version; each author can maintain their own latest version. This “branching” of creative works encourages a diversity of perspectives that can be exchanged and interwoven in a creative network of any scale. Authors can create unlimited branches, easily view differences between branches, and merge in changes from other versions and authors.
 
-The Software Zero launch rolls up the four main project areas of enlightened structure – creative collaboration,[trust and reputation systems](http://enlightenedstructure.org/Trust_Exchange) ,[visual navigation of data](http://enlightenedstructure.org/Core_Network) , and the[underlying data graph](http://enlightenedstructure.org/BaseParadigm) – into one product release. That is, it’s the basic elements of each of the enlightened structure project areas that make a great, usable, consumer-oriented web application to get the ball rolling. This is just the beginning, but we want it to be a great beginning, with solid tech and features that are useful for*you*.## Academic Applications
+The Software Zero launch rolls up the four main project areas of enlightened structure – creative collaboration, [trust and reputation systems](http://enlightenedstructure.org/Trust_Exchange) , [visual navigation of data](http://enlightenedstructure.org/Core_Network) , and the [underlying data graph](http://enlightenedstructure.org/BaseParadigm) – into one product release. That is, it’s the basic elements of each of the enlightened structure project areas that make a great, usable, consumer-oriented web application to get the ball rolling. This is just the beginning, but we want it to be a great beginning, with solid tech and features that are useful for*you*.## Academic Applications
 
 
 A primary application of the enlightened structure technology is the Massively Parallel Academic Research System (MPARCS). As Wikipedia has opened the encyclopedia by leveraging the “wisdom of crowds”, so enlightened structure will open the cutting edges of human knowledge, as represented in academic research. Research papers, or even seeds of papers, placed into the public domain with appropriate supporting technology, will allow others to build on these works, while still preserving intellectual ownership of ideas through total transparency and traceability.
@@ -43,6 +43,6 @@ Building simple, stable, long-term foundations for a new generation of informati
 
 Software Zero is being developed as a volunteer effort, supported by our team’s belief in the power and promise of these platforms.----------
 
-This page was forked with permission from[http://enlightenedstructure.org/Software_Zero/](http://enlightenedstructure.org/Software_Zero/) ----------
+This page was forked with permission from [http://enlightenedstructure.org/Software_Zero/](http://enlightenedstructure.org/Software_Zero/) ----------
 
-[Creative Commons Attribution-ShareAlike License](http://creativecommons.org/licenses/by-sa/3.0/) 
+ [Creative Commons Attribution-ShareAlike License](http://creativecommons.org/licenses/by-sa/3.0/) 
